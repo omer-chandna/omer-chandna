@@ -1,0 +1,116 @@
+{
+  "github_login": "omer-chandna",
+  "status": "ONLINE · TORONTO",
+  "name_lines": [
+    "OMER",
+    "CHANDNA"
+  ],
+  "role": "// AI ENGINEER · ML SYSTEMS · BCI",
+  "summary": [
+    "I build AI that reasons and software that drives.",
+    "Agentic AI, LLM pipelines and BCIs · CS @ TMU · SWE @ Airbus"
+  ],
+  "terminal": {
+    "path": "~/omer",
+    "lines": [
+      [
+        "cmd",
+        "whoami"
+      ],
+      [
+        "out",
+        "omer chandna, cs @ tmu"
+      ],
+      [
+        "cmd",
+        "cat ~/focus"
+      ],
+      [
+        "out",
+        "agents · llms · gpu inference"
+      ],
+      [
+        "cmd",
+        "ls ~/building"
+      ],
+      [
+        "out",
+        "kernel-sanders  nymbric  p.s"
+      ]
+    ]
+  },
+  "tiles": [
+    {
+      "file": "tile-work",
+      "kicker": "01 / WORK",
+      "title": "Airbus",
+      "line1": "Junior Software Engineer",
+      "line2": "prev: AI Engineer Intern @ Deloitte",
+      "link": "https://linkedin.com/in/omer-chandna"
+    },
+    {
+      "file": "tile-study",
+      "kicker": "02 / STUDY",
+      "title": "CS @ TMU",
+      "line1": "Honours B.Sc. Computer Science",
+      "line2": "co-op · graduating April 2027",
+      "link": "https://www.torontomu.ca"
+    },
+    {
+      "file": "tile-research",
+      "kicker": "03 / RESEARCH",
+      "title": "VRiend Lab",
+      "line1": "Undergraduate Thesis Researcher",
+      "line2": "SSVEP BCI for hands-free VR/XR",
+      "link": "https://www.omerchandna.com"
+    }
+  ],
+  "projects": [
+    {
+      "file": "project-1",
+      "status": "LLM INFERENCE",
+      "highlight": true,
+      "private": false,
+      "title": "kernel-sanders",
+      "desc": "A local single-GPU inference runtime comparing eager launches, CUDA Graphs, fused kernels and a persistent scheduler.",
+      "foot": "CUDA · C++ · Python",
+      "repo": "omer-chandna/kernel-sanders",
+      "link": "https://github.com/omer-chandna/kernel-sanders"
+    },
+    {
+      "file": "project-2",
+      "status": "AGENT SECURITY",
+      "private": false,
+      "title": "nymbric",
+      "desc": "Local security tests for AI agents that use personal context, including social-engineering attacks.",
+      "foot": "Python · FastAPI",
+      "repo": "omer-chandna/nymbric",
+      "link": "https://github.com/omer-chandna/nymbric"
+    },
+    {
+      "file": "project-3",
+      "status": "LOCAL LLM",
+      "private": false,
+      "title": "P.S.",
+      "desc": "Select a prompt, press a shortcut, and a local model tightens it or leaves it alone.",
+      "foot": "Rust · Tauri · Ollama",
+      "repo": "omer-chandna/P.S",
+      "link": "https://github.com/omer-chandna/P.S"
+    }
+  ],
+  "links": {
+    "website": "https://www.omerchandna.com",
+    "linkedin": "https://linkedin.com/in/omer-chandna",
+    "email": "omer.chandna@torontomu.ca",
+    "x": "https://x.com/omerchandna",
+    "blog": "https://www.omerchandna.com/blog",
+    "resume": "https://www.omerchandna.com/Omer__Resume.pdf"
+  },
+  "ticker": [
+    "Agentic AI",
+    "LLMs",
+    "Backend",
+    "Scalable Systems"
+  ],
+  "hero_caption": "43.65°N 79.38°W · CH·O1 LIVE EEG"
+}

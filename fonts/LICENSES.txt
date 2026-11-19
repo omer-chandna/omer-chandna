@@ -1,0 +1,3 @@
+Montserrat and Inter: SIL Open Font License 1.1.
+DejaVu Sans Mono: Bitstream Vera / DejaVu license (free to redistribute).
+Files here are subsets used for embedding in the SVG cards.
