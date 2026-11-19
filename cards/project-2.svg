@@ -42,4 +42,5 @@
 <line x1="30" y1="240" x2="318" y2="240" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
 <rect x="30" y="260" width="9" height="9" fill="#ff8a1f"/>
 <text x="46" y="269" class="m" font-size="13" fill="#9c978c">Python · FastAPI</text>
+<text x="294.5" y="269" class="mb" font-size="13" fill="#ff8a1f">★ 0</text>
 </svg>
