@@ -64,7 +64,7 @@
 <text x="695.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">NOV</text>
 <g class="rise" style="animation-delay:0.40s"><text x="775" y="142" class="n" font-size="44" letter-spacing="1" fill="#ff8a1f">15<tspan dx="10" fill="#5d5a55">/ 15</tspan></text><text x="775" y="170" class="s" font-size="15" fill="#9c978c">night streak now, and the longest</text></g>
 <line x1="775" y1="196" x2="1052" y2="196" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
-<g class="rise" style="animation-delay:0.52s"><text x="775" y="246" class="n" font-size="44" letter-spacing="1" fill="#ece6d8">70</text><text x="775" y="274" class="s" font-size="15" fill="#9c978c">days with a contribution</text></g>
+<g class="rise" style="animation-delay:0.52s"><text x="775" y="246" class="n" font-size="44" letter-spacing="1" fill="#ece6d8">68</text><text x="775" y="274" class="s" font-size="15" fill="#9c978c">days with a contribution</text></g>
 <line x1="775" y1="300" x2="1052" y2="300" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
-<g class="rise" style="animation-delay:0.64s"><text x="775" y="350" class="n" font-size="44" letter-spacing="1" fill="#ece6d8">34</text><text x="775" y="378" class="s" font-size="15" fill="#9c978c">on the busiest day, Nov 6</text></g>
+<g class="rise" style="animation-delay:0.64s"><text x="775" y="350" class="n" font-size="44" letter-spacing="1" fill="#ece6d8">35</text><text x="775" y="378" class="s" font-size="15" fill="#9c978c">on the busiest day, Nov 6</text></g>
 </svg>
