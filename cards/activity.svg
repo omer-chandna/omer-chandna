@@ -34,33 +34,33 @@
 </defs>
 <rect x="10" y="10" width="1086" height="416" rx="16" fill="#000" opacity=".85"/><rect x="4" y="4" width="1086" height="416" rx="16" fill="url(#sheen)"/><rect x="4" y="4" width="1086" height="416" rx="16" fill="url(#vig)"/><rect x="4" y="4" width="1086" height="416" rx="16" filter="url(#grain)"/><rect x="4.75" y="4.75" width="1084.5" height="414.5" rx="16" fill="none" stroke="#2a2b33" stroke-width="1.5"/><g stroke="#ff8a1f" stroke-width="2" fill="none" stroke-linecap="square"><path d="M14 32 V14 H32"/><path d="M1080 392 V410 H1062"/></g>
 <text x="44" y="60" class="mb" font-size="13" letter-spacing="2.2" fill="#5d5a55">THE LAST 12 MONTHS ON GITHUB</text>
-<text x="42" y="132" class="n rise" font-size="52" letter-spacing="2" fill="#ece6d8">423</text>
-<text x="165.3" y="132" class="n rise" font-size="52" letter-spacing="2" fill="#5d5a55" style="animation-delay:.1s">CONTRIBUTIONS</text>
+<text x="42" y="132" class="n rise" font-size="52" letter-spacing="2" fill="#ece6d8">427</text>
+<text x="166.7" y="132" class="n rise" font-size="52" letter-spacing="2" fill="#5d5a55" style="animation-delay:.1s">CONTRIBUTIONS</text>
 <line x1="44" y1="353" x2="724" y2="353" stroke="#2a2b33" stroke-width="2"/>
-<rect x="54.8" y="343.4" width="35.1" height="8.6" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.30s"/>
+<rect x="54.8" y="343.6" width="35.1" height="8.4" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.30s"/>
 <text x="72.3" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">DEC</text>
-<rect x="111.4" y="289.4" width="35.1" height="62.6" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.36s"/>
+<rect x="111.4" y="290.8" width="35.1" height="61.2" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.36s"/>
 <text x="129.0" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">JAN</text>
-<rect x="168.1" y="339.1" width="35.1" height="12.9" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.42s"/>
+<rect x="168.1" y="339.4" width="35.1" height="12.6" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.42s"/>
 <text x="185.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">FEB</text>
-<rect x="224.8" y="314.3" width="35.1" height="37.7" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.48s"/>
+<rect x="224.8" y="315.1" width="35.1" height="36.9" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.48s"/>
 <text x="242.3" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">MAR</text>
 <rect x="281.4" y="350.0" width="35.1" height="2.0" rx="2" fill="#22232a" class="grow" style="animation-delay:0.54s"/>
 <text x="299.0" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">APR</text>
-<rect x="338.1" y="342.6" width="35.1" height="9.4" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.60s"/>
+<rect x="338.1" y="342.8" width="35.1" height="9.2" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.60s"/>
 <text x="355.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">MAY</text>
-<rect x="394.8" y="346.9" width="35.1" height="5.1" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.66s"/>
+<rect x="394.8" y="347.0" width="35.1" height="5.0" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.66s"/>
 <text x="412.3" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">JUN</text>
 <rect x="451.4" y="350.0" width="35.1" height="2.0" rx="2" fill="#22232a" class="grow" style="animation-delay:0.72s"/>
 <text x="469.0" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">JUL</text>
 <rect x="508.1" y="347.0" width="35.1" height="5.0" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.78s"/>
 <text x="525.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">AUG</text>
-<rect x="564.8" y="335.7" width="35.1" height="16.3" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.84s"/>
+<rect x="564.8" y="336.1" width="35.1" height="15.9" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.84s"/>
 <text x="582.3" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">SEP</text>
-<rect x="621.4" y="296.3" width="35.1" height="55.7" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.90s"/>
+<rect x="621.4" y="297.5" width="35.1" height="54.5" rx="2" fill="#3b3c45" class="grow" style="animation-delay:0.90s"/>
 <text x="639.0" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">OCT</text>
 <rect x="678.1" y="202.0" width="35.1" height="150.0" rx="2" fill="#ff8a1f" filter="url(#glow)" class="grow" style="animation-delay:0.96s"/>
-<text x="695.7" y="190.0" class="mb fade" font-size="13" fill="#ff8a1f" text-anchor="middle" style="animation-delay:1.36s">175</text>
+<text x="695.7" y="190.0" class="mb fade" font-size="13" fill="#ff8a1f" text-anchor="middle" style="animation-delay:1.36s">179</text>
 <text x="695.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">NOV</text>
 <g class="rise" style="animation-delay:0.40s"><text x="775" y="142" class="n" font-size="44" letter-spacing="1" fill="#ff8a1f">16<tspan dx="10" fill="#5d5a55">/ 16</tspan></text><text x="775" y="170" class="s" font-size="15" fill="#9c978c">night streak now, and the longest</text></g>
 <line x1="775" y1="196" x2="1052" y2="196" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
