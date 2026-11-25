@@ -62,7 +62,7 @@
 <rect x="678.1" y="202.0" width="35.1" height="150.0" rx="2" fill="#ff8a1f" filter="url(#glow)" class="grow" style="animation-delay:0.96s"/>
 <text x="695.7" y="190.0" class="mb fade" font-size="13" fill="#ff8a1f" text-anchor="middle" style="animation-delay:1.36s">211</text>
 <text x="695.7" y="380" class="m" font-size="12.5" fill="#5d5a55" text-anchor="middle">NOV</text>
-<g class="rise" style="animation-delay:0.40s"><text x="775" y="142" class="n" font-size="44" letter-spacing="1" fill="#ff8a1f">19<tspan dx="10" fill="#5d5a55">/ 19</tspan></text><text x="775" y="170" class="s" font-size="15" fill="#9c978c">night streak now, and the longest</text></g>
+<g class="rise" style="animation-delay:0.40s"><text x="775" y="142" class="n" font-size="44" letter-spacing="1" fill="#ff8a1f">0<tspan dx="10" fill="#5d5a55">/ 19</tspan></text><text x="775" y="170" class="s" font-size="15" fill="#9c978c">night streak now, and the longest</text></g>
 <line x1="775" y1="196" x2="1052" y2="196" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
 <g class="rise" style="animation-delay:0.52s"><text x="775" y="246" class="n" font-size="44" letter-spacing="1" fill="#ece6d8">72</text><text x="775" y="274" class="s" font-size="15" fill="#9c978c">days with a contribution</text></g>
 <line x1="775" y1="300" x2="1052" y2="300" stroke="#2a2b33" stroke-width="1.5" stroke-dasharray="3 5"/>
